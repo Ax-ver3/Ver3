@@ -1,0 +1,3 @@
+print("成功")
+gg.setVisible(true)
+return os.exit()
